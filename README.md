@@ -1,5 +1,7 @@
 # Open Saves
 
+Test the use of github hostname alias to manage different identities on the same laptop.
+
 <img src="docs/images/Full-Color-Logo_Vertical.svg" width="400" />
 
 [![GoPkg Widget](https://pkg.go.dev/badge/github.com/googleforgames/open-saves)](https://pkg.go.dev/github.com/googleforgames/open-saves)
